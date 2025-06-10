@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+.venv/
+beam-detection/
+
+# Dataset and outputs
+/content/dataset_beam/
+beam_submission.csv
+runs/
+
+# Model weights
+*.pth
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
