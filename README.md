@@ -15,3 +15,6 @@ Beam Damage Detection
 ├── runs/detect/yolov8_beam_crack_aug # YOLO 訓練輸出目錄                                                                                                               
 ├── beam_submission.csv               # 最終輸出的預測結果                                                                                                              
 └── DLCV_Final_Competetion_Beam_CNN_YoloV8.ipynb # 主程式
+
+Competetion2_Datasets_Link
+https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
