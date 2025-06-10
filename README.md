@@ -14,4 +14,4 @@ Beam Damage Detection
 ├── best_multitask_model.pth          # 預訓練的 CNN 模型檔案                                                                                                           
 ├── runs/detect/yolov8_beam_crack_aug # YOLO 訓練輸出目錄                                                                                                               
 ├── beam_submission.csv               # 最終輸出的預測結果                                                                                                              
-└── main.py                           # 主程式
+└── DLCV_Final_Competetion_Beam_CNN_YoloV8.ipynb # 主程式
