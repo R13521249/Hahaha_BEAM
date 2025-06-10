@@ -1,0 +1,23 @@
+
+---
+
+### **environment.yml**
+
+```yaml
+name: beam-damage-detection
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26.4
+  - pandas
+  - scikit-learn
+  - tqdm
+  - pillow
+  - pyyaml
+  - pip:
+      - torch==2.0.1+cu118
+      - torchvision==0.15.2+cu118
+      - ultralytics
