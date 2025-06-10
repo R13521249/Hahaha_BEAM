@@ -15,6 +15,6 @@
 ├── beam_submission.csv          # 最終輸出結果                                                                                                                        
 ├── environment.yml              # Conda 環境設定檔                                                                                                                    
 ├── .gitignore                   # Git 忽略檔案設定                                                                                                                    
-└── main.py                      # 主程式                                                                                                                              
+└── DLCV_Final_Competetion_Beam_CNN_YoloV8.ipynb      # 主程式                                                                                                                              
   Competetion2_Datasets_Link
   https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
