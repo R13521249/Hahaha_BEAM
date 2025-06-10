@@ -32,5 +32,6 @@
   ├── .gitignore                   # Git 忽略檔案設定
   
   └── main.py                      # 主程式
+  
   Competetion2_Datasets_Link
   https://drive.google.com/drive/folders/1yDLcu1347yMhLSPXw9Mpt0ZT-po1hdvV?usp=sharing
